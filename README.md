@@ -11,7 +11,7 @@ Your task is to apply different styles to the elements using CSS selectors and t
 # Requirements
 
 1. Add your styles to the provided index.html.
-2. Use class selectors to style the header, main, and footer sections with different background colors.
+<!-- 2. Use class selectors to style the header, main, and footer sections with different background colors. -->
 3. Use tag selectors to style the heading, list items, and paragraphs with different font sizes and colors.
 4. Use ID selectors to style the first list item with a border and a different font color.
 5. Use pseudo-class selectors to style the links in the header and footer sections with different hover effects.
